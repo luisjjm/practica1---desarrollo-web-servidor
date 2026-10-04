@@ -13,4 +13,6 @@ En PHP
 recibe la variable con:
 $_GET["nombre de la variable"]
 
+//El nombre de la variable corresponde al atributo name del input HTML
+
 Como las variables son vistas desde la URL es recomendable no enviar datos sensibles con este metodo. 
